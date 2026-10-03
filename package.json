@@ -1,0 +1,12 @@
+{
+  "name": "kategorii-apk",
+  "version": "1.0.0",
+  "description": "КатегорИИ — сборка Android-приложения (APK) из offline-версии через Capacitor",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/core": "^6.2.2"
+  }
+}
