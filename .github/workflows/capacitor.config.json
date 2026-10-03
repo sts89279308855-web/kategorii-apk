@@ -1,0 +1,8 @@
+{
+  "appId": "ru.kategorii.app",
+  "appName": "КатегорИИ",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
